@@ -1,5 +1,7 @@
-Cognizant DN 3.0 Java FSE Assignment by Abdulfarith, TCE.
+Certainly! Here's an updated README with the requested information:
 
+Cognizant DN 3.0 Java FSE Assignment by Abdulfarith, TCE
+Project Timeline
 📅 Week 1 - Completed
 📅 Week 2 - Upcoming
 📅 Week 3 - Upcoming
