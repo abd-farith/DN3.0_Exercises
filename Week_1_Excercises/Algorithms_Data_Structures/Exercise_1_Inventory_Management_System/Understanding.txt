@@ -1,0 +1,10 @@
+1. Efficient data structures and algorithms are crucial for handling large inventories because they directly impact the performance and scalability of the system. 
+The right choice of data structures ensures quick access, insertion, deletion, and updating of inventory data, which is critical for maintaining real-time accuracy and 
+efficiency in a warehouse management system.
+
+2. The below datastructures are suitable for this problem
+
+    1. ArrayList: Useful for maintaining a dynamic array that can grow as needed. 
+    Suitable for scenarios where frequent random access is required.
+    2. HashMap: Provides average O(1) time complexity for insertion, deletion, and lookup operations. 
+    Ideal for handling large datasets with unique keys (e.g., product IDs).

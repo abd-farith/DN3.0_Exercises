@@ -1,0 +1,3 @@
+1. Recursion is a technique where a function calls itself to solve smaller instances of a problem. 
+   It's useful in scenarios where a problem can naturally be divided into similar subproblems. 
+   In financial forecasting, recursion can be used to project future values by repeatedly applying a growth ra   

@@ -1,0 +1,11 @@
+1. Big O Notation and Its Importance:
+    Big O notation is a mathematical representation used to describe the efficiency of an algorithm in terms of time and space complexity. 
+    It helps in analyzing the performance of algorithms as the input size grows, providing a high-level understanding of the algorithm's behavior without needing to delve into implementation details.
+
+2. Best, Average, and Worst-Case Scenarios for Search Operations:
+    Best Case: The scenario where the search operation finds the target element immediately, usually at the first position. 
+        For example, O(1) for linear search.
+    Average Case: The scenario that represents the expected performance of the search operation, considering all possible positions of the target element. 
+        For example, O(n/2) for linear search, which simplifies to O(n).
+    Worst Case: The scenario where the search operation takes the maximum time, usually when the target element is not present, leading to a complete traversal of the data structure. 
+        For example, O(n) for linear search.

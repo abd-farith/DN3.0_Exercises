@@ -1,0 +1,9 @@
+1. Time Complexity:
+
+    Linear Search: O(n) - Each element is checked until the target is found.
+    Binary Search: O(log n) - The search interval is halved with each step.
+
+2. When to Use:
+
+    Linear Search: Suitable for small or unsorted datasets.
+    Binary Search: Efficient for large, sorted datasets. Requires sorting beforehand if the data isn't already sorted.

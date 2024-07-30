@@ -1,0 +1,11 @@
+1. Arrays are represented as contiguous blocks of memory locations. 
+Each element is stored sequentially, allowing direct access using its index. The address of an element is calculated as:
+
+Address of array[i] = Base Address + (i * Element Size)
+
+Advantages of Arrays:
+    Constant-Time Access: Direct access to elements using indices (O(1) time complexity).
+    Memory Efficiency: Low overhead due to contiguous storage.
+    Cache Friendliness: Sequential storage improves cache performance.
+    Simplicity: Easy to implement and use.
+    Predictable Performance: Defined time complexity for operations.

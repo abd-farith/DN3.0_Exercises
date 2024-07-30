@@ -1,0 +1,19 @@
+1. Time Complexity:
+
+    Add: O(1) - Adding an employee to the end of the array is constant time, assuming there's space.
+    Search: O(n) - Searching requires scanning the array, which is linear time.
+    Traverse: O(n) - Traversing the array takes linear time.
+    Delete: O(n) - Deleting an element requires searching for it (O(n)) and then shifting elements, which is also linear time in the worst case.
+
+2. Limitations of Arrays:
+
+    Fixed Size: Arrays have a fixed size, so you need to know in advance how many elements you will need to store.
+    Inefficient Deletion: Deleting an element from the middle of an array requires shifting all subsequent elements.
+    Inefficient Insertion: Inserting an element in the middle of an array requires shifting all subsequent elements.
+    Wasted Space: If the array is not fully utilized, there is wasted space.
+
+When to Use Arrays:
+
+    When you have a fixed number of elements.
+    When you need quick access to elements by index.
+    When the number of elements is relatively small or predictable.

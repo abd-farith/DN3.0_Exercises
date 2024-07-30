@@ -1,0 +1,11 @@
+1. Time Complexity:
+
+    Add: O(n) - Requires traversal to the end of the list.
+    Search: O(n) - Requires traversal through the list.
+    Traverse: O(n) - Requires visiting each node.
+    Delete: O(n) - Requires traversal to find the node to delete.
+
+2. Advantages of Linked Lists Over Arrays:
+
+    Dynamic Size: Can grow and shrink dynamically without predefined size.
+    Efficient Insertions/Deletions: Insertions and deletions at the beginning or middle are more efficient (O(1) for beginning insertions/deletions).

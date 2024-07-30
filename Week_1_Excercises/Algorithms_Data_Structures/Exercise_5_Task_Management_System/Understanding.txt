@@ -1,0 +1,13 @@
+1. Different types of Linked List
+
+Singly Linked List:
+
+    Structure: Each node contains data and a reference (or pointer) to the next node in the sequence.
+    Advantages: Simple to implement, efficient insertions/deletions at the beginning.
+    Disadvantages: Cannot traverse backwards, requires additional space for the next pointer.
+
+Doubly Linked List:
+
+    Structure: Each node contains data, a reference to the next node, and a reference to the previous node.
+    Advantages: Can traverse forwards and backwards, more flexible in insertion/deletion operations.
+    Disadvantages: More complex to implement, requires extra memory for the previous pointer.

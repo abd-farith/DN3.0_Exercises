@@ -1,0 +1,10 @@
+1. Time Complexity Comparison:
+
+    Linear Search: O(n) - In the worst case, the algorithm examines every element in the list. This is not efficient for large datasets.
+    Binary Search: O(log n) - The search interval is halved with each step, making it much more efficient for large, sorted datasets.
+    Suitability for the Platform:
+
+2. Linear Search: Suitable for small datasets or when the data is not sorted. It has a simple implementation but is inefficient for large datasets.
+   Binary Search: Best for large datasets where the data can be maintained in a sorted order. It significantly reduces search time but requires the list to be sorted initially and after each insertion.
+
+   For an e-commerce platform where speed is critical and data is typically large and can be sorted, binary search is the preferred method due to its efficiency

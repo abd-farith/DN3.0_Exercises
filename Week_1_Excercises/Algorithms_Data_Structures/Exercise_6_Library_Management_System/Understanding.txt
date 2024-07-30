@@ -1,0 +1,10 @@
+Linear Search:
+
+    Description: Sequentially checks each element of the list until the target element is found or the list ends.
+    Time Complexity: O(n) - Each element is checked, resulting in linear time complexity.
+
+Binary Search:
+
+    Description: Divides the sorted list into two halves, repeatedly narrowing down the search interval to the half where the target element must lie.
+    Time Complexity: O(log n) - Each step reduces the search interval by half, resulting in logarithmic time complexity.
+    Prerequisite: The list must be sorted.

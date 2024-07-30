@@ -1,0 +1,10 @@
+Time Complexity Analysis:
+
+1. Add Product: The time complexity for adding a product using a HashMap is O(1) on average because it involves hashing the key and inserting the entry.
+2. Update Product: The time complexity for updating a product is O(1) on average because it involves retrieving the entry by key and modifying its attributes.
+3. Delete Product: The time complexity for deleting a product is O(1) on average because it involves hashing the key and removing the entry.
+
+Optimization:
+
+1. Using a HashMap already provides optimal average time complexity (O(1)) for add, update, and delete operations.
+2. Ensuring that the HashMap has an adequate initial capacity and load factor can help maintain performance and reduce the need for resizing the internal data structures.

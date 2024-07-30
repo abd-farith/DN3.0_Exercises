@@ -1,0 +1,10 @@
+1. Time Complexity:
+
+    The time complexity of the recursive algorithm is O(n), where n is the number of periods. 
+    This is because each recursive call represents a period, and the function makes one call per period until it reaches the base case.
+
+Optimization:
+
+    Recursive solutions can lead to excessive computation, particularly with large n due to the function call overhead. 
+    To optimize, one can use memoization to store previously computed results, or convert the recursive solution to an iterative one, 
+    which reduces the overhead of function calls and can be more efficient in terms of space and time.
