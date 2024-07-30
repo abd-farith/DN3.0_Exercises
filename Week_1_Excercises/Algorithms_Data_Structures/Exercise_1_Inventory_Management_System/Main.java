@@ -16,16 +16,6 @@ class Product {
         this.price = price;
     }
 
-
-
-
-    public Product(int i, String string, String string2) {
-        //TODO Auto-generated constructor stub
-    }
-
-
-
-
     public String getProductId() {
         return productId;
     }
