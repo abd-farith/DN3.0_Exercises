@@ -2,7 +2,7 @@
 // Step 4: Analysis is completed in Analysis.txt
 
 
-public class Main {
+public class MainTask {
     public static void main(String[] args) {
         TaskLinkedList taskList = new TaskLinkedList();
 

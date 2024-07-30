@@ -16,6 +16,7 @@ class Product {
         this.price = price;
     }
 
+
     public String getProductId() {
         return productId;
     }
@@ -83,7 +84,7 @@ class InventoryManagementSystem {
     }
 }
 
-public class Main {
+public class MainInventory {
     public static void main(String[] args) {
         InventoryManagementSystem ims = new InventoryManagementSystem();
 

@@ -1,4 +1,4 @@
-public class Main {
+public class MainFinance{
     public static void main(String[] args) {
         FutureValueCalculator calculator = new FutureValueCalculator();
         double presentValue = 1000.0;

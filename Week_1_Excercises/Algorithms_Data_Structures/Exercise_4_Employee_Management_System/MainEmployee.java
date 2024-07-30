@@ -1,7 +1,7 @@
 // Step 1: Understanding the problem is completed in Understanding.txt
 // Step 4: Analysis is completed in Analysis.txt
 
-public class Main {
+public class MainEmployee {
     public static void main(String[] args) {
         EmployeeManagementSystem ems = new EmployeeManagementSystem(10);
         

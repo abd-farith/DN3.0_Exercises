@@ -2,7 +2,7 @@
 // Step 4: Analysis is completed in Analysis.txt
 
 
-public class Main{
+public class MainOrder{
     public static void main(String[] args) {
         Order[] orders = {
             new Order(1, "Alice", 250.0),

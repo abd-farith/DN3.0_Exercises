@@ -3,7 +3,7 @@
 
 import java.util.Arrays;
 
-public class Main {
+public class MainEcommerce {
     public static void main(String[] args) {
         Product[] products = {
             new Product(1, "Laptop", "Electronics"),

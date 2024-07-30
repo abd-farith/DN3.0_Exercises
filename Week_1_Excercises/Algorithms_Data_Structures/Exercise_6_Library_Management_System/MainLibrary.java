@@ -3,7 +3,7 @@
 
 import java.util.Arrays;
 
-public class Main {
+public class MainLibrary {
     public static void main(String[] args) {
         Book[] books = {
             new Book(1, "The Great Gatsby", "F. Scott Fitzgerald"),
